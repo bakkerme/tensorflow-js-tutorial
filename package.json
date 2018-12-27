@@ -1,0 +1,15 @@
+{
+  "name": "tensor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^0.2.1",
+    "http-server": "^0.11.1"
+  }
+}
