@@ -1,0 +1,8 @@
+module.exports = {
+  "extends": [
+    "airbnb-base",
+    "p5js"
+    "p5js/dom"
+    "p5js/sound"
+  ]
+};
